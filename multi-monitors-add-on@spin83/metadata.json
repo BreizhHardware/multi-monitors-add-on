@@ -1,10 +1,10 @@
 {
-    "shell-version": ["40", "41", "42", "43", "44"],
-    "uuid": "multi-monitors-add-on@spin83",
+    "shell-version": ["40", "41", "42", "43", "44", "45"],
+    "uuid": "multi-monitors-add-on@breizhhardware",
     "name": "Multi Monitors Add-On",
     "settings-schema": "org.gnome.shell.extensions.multi-monitors-add-on",
     "gettext-domain": "multi-monitors-add-on",
-    "description": "Add multiple monitors overview and panel for gnome-shell.",
-    "url": "https://github.com/spin83/multi-monitors-add-on.git",
+    "description": "Add multiple monitors overview and panel for gnome-shell. Based on multi-monitors-add-on by darkxst",
+    "url": "https://github.com/breizhhardware/multi-monitors-add-on.git",
     "version": 26
 }
