@@ -7,7 +7,7 @@ in dynamic fashion, no restart needed.
 
 # Versions
 
-- Branch [master](https://github.com/breizhhardware/multi-monitors-add-on/tree/master) contains extension for GNOME 42, 43, 44
+- Branch [master](https://github.com/breizhhardware/multi-monitors-add-on/tree/master) contains extension for GNOME 42, 43, 44 and 45
 
 # Installation from git
 
