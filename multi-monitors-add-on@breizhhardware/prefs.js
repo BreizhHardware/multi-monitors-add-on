@@ -15,6 +15,9 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, visit https://www.gnu.org/licenses/.
 */
 
+imports.gi.versions.Gdk = '3.0';
+imports.gi.versions.Gtk = '3.0';
+
 const Lang = imports.lang;
 
 const GObject = imports.gi.GObject;
